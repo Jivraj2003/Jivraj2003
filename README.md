@@ -59,6 +59,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jivraj2003&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jivraj2003&layout=compact&theme=gruvbox" alt="Top Languages"/>
+</p>
+
+---
+
 ### 🔥 Fun Fact
 
 <p align="center"><i>"Fueled by curiosity. Always learning, always building."</i></p>
